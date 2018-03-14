@@ -1,0 +1,6 @@
+model_checkpoint_path: "attention_RNN_100d-25"
+all_model_checkpoint_paths: "attention_RNN_100d-10"
+all_model_checkpoint_paths: "attention_RNN_100d-12"
+all_model_checkpoint_paths: "attention_RNN_100d-16"
+all_model_checkpoint_paths: "attention_RNN_100d-21"
+all_model_checkpoint_paths: "attention_RNN_100d-25"
